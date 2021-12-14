@@ -1,0 +1,59 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	min-height: 100%;
+}
+
+.caja1{
+	background: linear-gradient(to bottom, #1A89E5, #00FFF7);
+	height: 20vh;
+	color: white;
+	text-align: center;
+}
+
+.caja2{
+	background: linear-gradient(to bottom, #004490, #0078FF);
+	height: 10vh;
+	color: white;
+	text-align: center;
+}
+
+.caja3{
+	background: linear-gradient(to bottom, #945ECF, #580079);
+	height: 50vh;
+	color: white;
+	text-align: center;
+}
+
+.caja4{
+	background: linear-gradient(to bottom, #9612F8, #4F2855);
+	height: 50vh;
+	color: white;
+	text-align: center;
+}
+
+.caja5{
+	background: linear-gradient(to bottom, #B338BE, #855689);
+	height: 50vh;
+	color: white;
+	text-align: center;
+}
+
+
+.caja6{
+	background: linear-gradient(to bottom, #340073, #7000F7);
+	height: 20vh;
+	color: white;
+	text-align: center;
+}
+
+header,nav,aside,footer
+
+{
+	font-family: serif;
+}
+header h1{
+	
+}
